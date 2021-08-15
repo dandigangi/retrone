@@ -1,8 +1,9 @@
 export const MOCKS = {
     user: {
+        authenticated: true,
+        avatar: 'users/09f41154-6eab-4037-99fd-51f6a8d8c0bc/avatar.png',
         id: '09f41154-6eab-4037-99fd-51f6a8d8c0bc',
         name: 'John Smith',
-        avatar: 'users/09f41154-6eab-4037-99fd-51f6a8d8c0bc/avatar.png',
     },
     settings: {
         boardAutoCloseTimer: 3,

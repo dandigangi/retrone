@@ -2,7 +2,7 @@ import type { NextPage } from 'next';
 import PageDashboard from '../modules/pages/Dashboard';
 
 /*
- * @Page Dashboard (Home)
+ * @Page Dashboard
  * @Route /
  */
 const Dashboard: NextPage = () => {

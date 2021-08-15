@@ -1,5 +1,5 @@
 .containerHeader {
-    background-color: rgb(63, 29, 102);
+    background-color: #3f1d66;
     color: #fff;
     padding: 17px 21px;
 }
@@ -17,16 +17,16 @@
 
 .containerNavigation {
     background-color: rgb(233, 233, 233);
-    flex: 0 0 180px;
-    padding: 17px 21px;
+    flex: 0 0 205px;
+    padding: 23px 18px;
 }
 
 .containerContent {
-    padding: 17px 21px;
+    padding: 23px 36px;
 }
 
-.containerTitle {
-}
-
-.containerChildren {
+.title {
+    font-weight: 300;
+    padding-bottom: 11px;
+    border-bottom: 1px solid #dec5f3;
 }

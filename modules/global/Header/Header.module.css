@@ -5,6 +5,12 @@
 }
 
 .containerLeft {
+    display: flex;
+    justify-content: center;
+}
+
+.containerBreadcrumbs {
+    margin-left: 13px;
 }
 
 .containerRight {

@@ -1,0 +1,4 @@
+/* Expand height of Next's wrapper div on pages */
+body > div#__next {
+    height: 100%;
+}
