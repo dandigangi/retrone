@@ -6,6 +6,7 @@ export const MOCKS = {
     },
     settings: {
         boardAutoCloseTimer: 3,
+        useBoardRouteSlug: true,
     },
     boards: [
         {

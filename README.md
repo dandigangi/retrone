@@ -6,12 +6,10 @@ Making this for fun to play around w/ NextJS and learn more TS. Need to shake of
 
 ### TODO
 
+-   Switch to Next's layout component
+-   Switch to CSS-in-JS styles
 -   Model data contracts (in progress)
 -   Return mocked data contracts to UI
 -   Display mocked data on dashboard and board page
--   Build create board action
-
-### Figure Out
-
--   Persistence (might just use Node to write to fs)
--   Typescript (frustrating to learn - concepts make sense but haven't figured out all the synax or how to apply correctly)
+-   Build create board action and factory
+-   Type files

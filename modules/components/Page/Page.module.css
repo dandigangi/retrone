@@ -1,0 +1,32 @@
+.containerHeader {
+    background-color: rgb(63, 29, 102);
+    color: #fff;
+    padding: 17px 21px;
+}
+
+.containerPage {
+    display: flex;
+    align-items: stretch;
+    height: 100%;
+}
+
+.containerNavigation,
+.containerContent {
+    flex: 1;
+}
+
+.containerNavigation {
+    background-color: rgb(233, 233, 233);
+    flex: 0 0 180px;
+    padding: 17px 21px;
+}
+
+.containerContent {
+    padding: 17px 21px;
+}
+
+.containerTitle {
+}
+
+.containerChildren {
+}

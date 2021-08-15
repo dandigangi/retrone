@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.containerLeft {
+}
+
+.containerRight {
+    display: flex;
+    align-items: center;
+}
+
+.containerSettings {
+    margin-left: 13px;
+}

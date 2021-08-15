@@ -1,0 +1,5 @@
+.containerImage > img {
+    width: 24px;
+    height: 24px;
+    clip-path: circle(60px at center);
+}
